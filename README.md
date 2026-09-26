@@ -588,4 +588,3 @@ This project is open source and available under the MIT License.
 **Happy farming! 🐑✨**
 
 For the latest updates and news, follow this repository and check the [GitHub page](https://github.com/yuvarajbtalawar99-creator/shepherd-s-watch).
-
